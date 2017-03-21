@@ -24,6 +24,8 @@ Beats:
     installed and configured topbeat on client device to ship data into logstash.
   Winlogbeat:
     installed and configured winlogbeat on client device to ship data into logstash.
+  Packetbeat:
+    installed and configured packetbeat on client device to ship data into elasticsearch.
     
 Syslog-ng:
   installed and configured syslog-ng to store incoming syslog data into desired file.
