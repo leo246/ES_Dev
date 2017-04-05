@@ -20,10 +20,13 @@ Kibana:
 Beats:
   Filebeat:  
     installed and configured filebeat on client device to ship data into elasticseach.
+  
   Topbeat:
     installed and configured topbeat on client device to ship data into logstash.
+  
   Winlogbeat:
     installed and configured winlogbeat on client device to ship data into logstash.
+  
   Packetbeat:
     installed and configured packetbeat on client device to ship data into elasticsearch.
     
